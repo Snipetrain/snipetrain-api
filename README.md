@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px  src="https://fastdl.snipetrain.tf/logo_cropped.png" alt="Project logo"></a>
+ <img width=200px  src="https://fastdl.snipetrain.tf/logo_cropped_new.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center"><b>Snipetrain.tf :: Backend Service</b></h2>
