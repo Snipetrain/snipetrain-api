@@ -33,5 +33,5 @@ It is also used as a mean to read news article coming from the Snipetrain staff.
 
 - [@Zeptile](https://github.com/Zeptile) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Snipetrain/snipetrain-api/contributors) who participated in this project.
 
