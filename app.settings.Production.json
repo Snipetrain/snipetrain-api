@@ -1,0 +1,11 @@
+{
+    "ConnectionStrings": {
+      "snipetrain": "mongodb://localhost:27017"
+    },
+    "Cors": {
+      "AllowedOrigins": [
+        "https://snipetrain.tf"
+      ]
+    }
+}
+  
