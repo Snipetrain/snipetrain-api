@@ -12,14 +12,11 @@
 [![Stars](	https://img.shields.io/github/stars/Snipetrain/snipetrain-api)]()
 </div>
 
----
-
-
 ## 🚀 About <a name = "about"></a>
 
-Snipetrain is a community of Source Games Snipers with a goal of gaining the most skilled snipers all around the globe. <br>
+Snipetrain is a community of TF2 Snipers with a goal of gathering the most skilled snipers all around the globe. <br>
 
-This is the Backend Service for the Snipetrain.tf Website giving access to Leaderboard & Server information data in real time. <br>
+This is the Backend Service for the Snipetrain.tf Website giving access to Leaderboard & Server data in real time. <br>
 It is also used as a mean to read news article coming from the Snipetrain staff.
 
 
