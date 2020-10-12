@@ -1,11 +1,24 @@
 {
-    "ConnectionStrings": {
-      "snipetrain": "mongodb://localhost:27017"
-    },
-    "Cors": {
-      "AllowedOrigins": [
-        "https://snipetrain.tf"
-      ]
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
     }
+  },
+  "ConnectionStrings": {
+    "snipetrain": "mongodb://localhost:27017"
+  },
+  "Cors": {
+    "allowedOrigins": [
+      "https://snipetrain.tf"
+    ]
+  },
+  "Endpoints": {
+    "GameMe": "http://snipetrain.gameme.com/api/"
+  },
+  "HostedServices": {
+    "delay": 10,
+    "errorCountLimit": 10
+  }
 }
-  
