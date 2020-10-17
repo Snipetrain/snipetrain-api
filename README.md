@@ -24,7 +24,8 @@ It is also used as a mean to read news article coming from the Snipetrain staff.
 
 - [ASP.NET](https://dotnet.microsoft.com/apps/aspnet) - Web API Framework
 - [.NET Core 3.1](https://dotnet.microsoft.com/) - Server Environment & C# Framework
-- [MongoDB](https://www.mongodb.com/) - Database
+- [MongoDB](https://www.mongodb.com/) - Database Software
+- [Docker](https://www.docker.com/) - Container runner
 
 ## ✍️ Authors <a name = "authors"></a>
 
